@@ -1,0 +1,1 @@
+51	121.76	Antimony	Sb	630	1750	6.68	ancient	15	[Kr] 4d10 5s2 5p3	8.6084

@@ -1,0 +1,236 @@
+1 H hydrogen
+1
+2 He helium
+2
+3 Li lithium
+2 1
+4 Be beryllium
+2 2
+5 B boron
+2 3
+6 C carbon
+2 4
+7 N nitrogen
+2 5
+8 O oxygen
+2 6
+9 F fluorine
+2 7
+10 Ne neon
+2 8
+11 Na sodium
+2 8 1
+12 Mg magnesium
+2 8 2
+13 Al aluminium
+2 8 3
+14 Si silicon
+2 8 4
+15 P phosphorus
+2 8 5
+16 S sulfur
+2 8 6
+17 Cl chlorine
+2 8 7
+18 Ar argon
+2 8 8
+19 K potassium
+2 8 8 1
+20 Ca calcium
+2 8 8 2
+21 Sc scandium
+2 8 9 2
+22 Ti titanium
+2 8 10 2
+23 V vanadium
+2 8 11 2
+24 Cr chromium
+2 8 13 1
+25 Mn manganese
+2 8 13 2
+26 Fe iron
+2 8 14 2
+27 Co cobalt
+2 8 15 2
+28 Ni nickel
+2 8 16 2
+29 Cu copper
+2 8 18 1
+30 Zn zinc
+2 8 18 2
+31 Ga gallium
+2 8 18 3
+32 Ge germanium
+2 8 18 4
+33 As arsenic
+2 8 18 5
+34 Se selenium
+2 8 18 6
+35 Br bromine
+2 8 18 7
+36 Kr krypton
+2 8 18 8
+37 Rb rubidium
+2 8 18 8 1
+38 Sr strontium
+2 8 18 8 2
+39 Y yttrium
+2 8 18 9 2
+40 Zr zirconium
+2 8 18 10 2
+41 Nb niobium
+2 8 18 12 1
+42 Mo molybdenum
+2 8 18 13 1
+43 Tc technetium
+2 8 18 13 2
+44 Ru ruthenium
+2 8 18 15 1
+45 Rh rhodium
+2 8 18 16 1
+46 Pd palladium
+2 8 18 18
+47 Ag silver
+2 8 18 18 1
+48 Cd cadmium
+2 8 18 18 2
+49 In indium
+2 8 18 18 3
+50 Sn tin
+2 8 18 18 4
+51 Sb antimony
+2 8 18 18 5
+52 Te tellurium
+2 8 18 18 6
+53 I iodine
+2 8 18 18 7
+54 Xe xenon
+2 8 18 18 8
+55 Cs caesium
+2 8 18 18 8 1
+56 Ba barium
+2 8 18 18 8 2
+57 La lanthanum
+2 8 18 18 9 2
+58 Ce cerium
+2 8 18 19 9 2
+59 Pr praseodymium
+2 8 18 21 8 2
+60 Nd neodymium
+2 8 18 22 8 2
+61 Pm promethium
+2 8 18 23 8 2
+62 Sm samarium
+2 8 18 24 8 2
+63 Eu europium
+2 8 18 25 8 2
+64 Gd gadolinium
+2 8 18 25 9 2
+65 Tb terbium
+2 8 18 27 8 2
+66 Dy dysprosium
+2 8 18 28 8 2
+67 Ho holmium
+2 8 18 29 8 2
+68 Er erbium
+2 8 18 30 8 2
+69 Tm thulium
+2 8 18 31 8 2
+70 Yb ytterbium
+2 8 18 32 8 2
+71 Lu lutetium
+2 8 18 32 9 2
+72 Hf hafnium
+2 8 18 32 10 2
+73 Ta tantalum
+2 8 18 32 11 2
+74 W tungsten
+2 8 18 32 12 2
+75 Re rhenium
+2 8 18 32 13 2
+76 Os osmium
+2 8 18 32 14 2
+77 Ir iridium
+2 8 18 32 15 2
+78 Pt platinum
+2 8 18 32 17 1
+79 Au gold
+2 8 18 32 18 1
+80 Hg mercury
+2 8 18 32 18 2
+81 Tl thallium
+2 8 18 32 18 3
+82 Pb lead
+2 8 18 32 18 4
+83 Bi bismuth
+2 8 18 32 18 5
+84 Po polonium
+2 8 18 32 18 6
+85 At astatine
+2 8 18 32 18 7
+86 Rn radon
+2 8 18 32 18 8
+87 Fr francium
+2 8 18 32 18 8 1
+88 Ra radium
+2 8 18 32 18 8 2
+89 Ac actinium
+2 8 18 32 18 9 2
+90 Th thorium
+2 8 18 32 18 10 2
+91 Pa protactinium
+2 8 18 32 20 9 2
+92 U uranium
+2 8 18 32 21 9 2
+93 Np neptunium
+2 8 18 32 22 9 2
+94 Pu plutonium
+2 8 18 32 24 8 2
+95 Am americium
+2 8 18 32 25 8 2
+96 Cm curium
+2 8 18 32 25 9 2
+97 Bk berkelium
+2 8 18 32 27 8 2
+98 Cf californium
+2 8 18 32 28 8 2
+99 Es einsteinium
+2 8 18 32 29 8 2
+100 Fm fermium
+2 8 18 32 30 8 2
+101 Md mendelevium
+2 8 18 32 31 8 2
+102 No nobelium
+2 8 18 32 32 8 2
+103 Lr lawrencium
+2 8 18 32 32 8 3
+104 Rf rutherfordium
+2 8 18 32 32 10 2
+105 Db dubnium
+2 8 18 32 32 11 2
+106 Sg seaborgium
+2 8 18 32 32 12 2
+107 Bh bohrium
+2 8 18 32 32 13 2
+108 Hs hassium
+2 8 18 32 32 14 2
+109 Mt meitnerium
+2 8 18 32 32 15 2
+110 Ds darmstadtium
+2 8 18 32 32 16 2
+111 Rg roentgenium
+2 8 18 32 32 17 2
+112 Cn copernicium
+2 8 18 32 32 18 2
+113 Uut ununtrium
+2 8 18 32 32 18 3
+114 Fl flerovium
+2 8 18 32 32 18 4
+115 Uup ununpentium
+2 8 18 32 32 18 5
+116 Lv livermorium
+2 8 18 32 32 18 6
+117 Uus ununseptium
+2 8 18 32 32 18 7
+118 Uuo ununoctium
+2 8 18 32 32 18 8
