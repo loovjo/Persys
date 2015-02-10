@@ -1,1 +1,1 @@
-# Persys
+This is the Persys, an application to help you with the periodic system
